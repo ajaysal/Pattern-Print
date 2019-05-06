@@ -1,0 +1,9 @@
+let input = ['a','b','c','d','e']
+let length = input.length
+for(let i =0;i<length;i++){
+    let temp =""
+    for(let j=i;j<length;j++){
+        temp += input[j]
+    }
+            
+}
